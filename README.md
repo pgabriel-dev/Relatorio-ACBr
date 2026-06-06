@@ -1,51 +1,51 @@
 # Relatorio-ACBr
 
-A comprehensive reporting solution built with ACBr framework.
+Uma solução abrangente de relatórios construída com o framework ACBr.
 
-## Overview
+## Visão Geral
 
-This project provides reporting functionality leveraging the ACBr (Automação Comercial Brasil) framework for Brazilian business automation.
+Este projeto fornece funcionalidade de relatórios aproveitando o framework ACBr (Automação Comercial Brasil) para automação de negócios brasileiros.
 
-## Features
+## Recursos
 
-- 📊 Report generation and management
-- 🔧 Integration with ACBr components
-- 📄 Document processing capabilities
+- 📊 Geração e gerenciamento de relatórios
+- 🔧 Integração com componentes ACBr
+- 📄 Capacidades de processamento de documentos
 
-## Installation
+## Instalação
 
-1. Clone the repository:
+1. Clone o repositório:
 ```bash
 git clone https://github.com/pgabriel-dev/Relatorio-ACBr.git
 ```
 
-2. Navigate to the project directory:
+2. Navegue até o diretório do projeto:
 ```bash
 cd Relatorio-ACBr
 ```
 
-3. Install dependencies (specific to your project setup)
+3. Instale as dependências (específicas para sua configuração de projeto)
 
-## Usage
+## Uso
 
-Add instructions on how to use this project.
+Adicione instruções sobre como usar este projeto.
 
-## Configuration
+## Configuração
 
-Document any configuration steps needed to run this project.
+Documente quaisquer etapas de configuração necessárias para executar este projeto.
 
-## Contributing
+## Contribuindo
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contribuições são bem-vindas! Sinta-se à vontade para enviar um Pull Request.
 
-## License
+## Licença
 
-Please specify your license here.
+Por favor, especifique sua licença aqui.
 
-## Author
+## Autor
 
 **pgabriel-dev**
 
-## Support
+## Suporte
 
-For issues and questions, please open an issue on the GitHub repository.
+Para problemas e dúvidas, abra um problema no repositório do GitHub.

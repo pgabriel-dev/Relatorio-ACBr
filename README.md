@@ -26,26 +26,4 @@ cd Relatorio-ACBr
 
 3. Instale as dependências (específicas para sua configuração de projeto)
 
-## Uso
 
-Adicione instruções sobre como usar este projeto.
-
-## Configuração
-
-Documente quaisquer etapas de configuração necessárias para executar este projeto.
-
-## Contribuindo
-
-Contribuições são bem-vindas! Sinta-se à vontade para enviar um Pull Request.
-
-## Licença
-
-Por favor, especifique sua licença aqui.
-
-## Autor
-
-**pgabriel-dev**
-
-## Suporte
-
-Para problemas e dúvidas, abra um problema no repositório do GitHub.

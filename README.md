@@ -24,6 +24,6 @@ git clone https://github.com/pgabriel-dev/Relatorio-ACBr.git
 cd Relatorio-ACBr
 ```
 
-3. Instale as dependências (específicas para sua configuração de projeto)
+
 
 
